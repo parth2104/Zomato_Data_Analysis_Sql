@@ -40,4 +40,3 @@ The dataset used is the **Zomato dataset**, which typically includes:
 
 ---
 
-## 📂 File Structure
