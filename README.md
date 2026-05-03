@@ -1,4 +1,4 @@
-# Zomato SQL Subqueries Analysis 🍽️📊
+# Zomato SQL Subqueries Analysis 
 
 This repository contains SQL queries performed on the **Zomato dataset**, focusing on mastering **subqueries** through real-world data analysis.
 
